@@ -1,0 +1,42 @@
+# Flutter OCR Scanner Assignment
+
+A Flutter OCR-based application that scans and extracts structured data from:
+
+* Credit / Debit Cards
+* Bank Passbooks
+
+## Features
+
+* Card Scanner
+* Passbook Scanner
+* OCR Text Extraction
+* Card Validation using Luhn Algorithm
+* Manual Parsing Logic
+* Camera & Gallery Support
+* GetX State Management
+* Modern UI Design
+
+## Tech Stack
+
+* Flutter
+* GetX
+* Google ML Kit OCR
+* Image Picker
+
+## Run Project
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Build APK
+
+```bash
+flutter build apk --release
+```
+
+## Author
+
+Naushad Ahamed
+Flutter Developer
